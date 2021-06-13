@@ -1,0 +1,109 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Покупки",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 1
+    },
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 3
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "newTaskText",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "IHglsbewjhwkn;sdbjspegwe",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 4,
+      "text": "IHglsbewjhwkn;sdbjspegwe",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "listId": 1,
+      "text": "IHglsbewjhwkn;sdbjspegwe",
+      "completed": true
+    },
+    {
+      "listId": 3,
+      "text": "test test",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "listId": 3,
+      "text": "new task",
+      "completed": false,
+      "id": 9
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6DB",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
